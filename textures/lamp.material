@@ -1,0 +1,44 @@
+material 1395476290_1_Metal_Aluminum_Anodized
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.792156862745098 0.819607843137255 0.858823529411765
+      diffuse 0.792156862745098 0.819607843137255 0.858823529411765
+      specular 0.0 0.0 0.0 0.0
+      emissive 1.0 1.0 1.0
+      // texture size: 54.0, 54.0
+      texture_unit
+      {
+        texture 1395476290_1_Metal_Aluminum_Anodized.jpg
+      }
+    }
+  }
+}
+material 1395476290_2_Color_000
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 1.0 1.0 1.0
+    }
+  }
+}
+material 1395476290_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 1.0 1.0 1.0
+    }
+  }
+}

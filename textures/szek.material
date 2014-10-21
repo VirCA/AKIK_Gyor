@@ -1,0 +1,93 @@
+material 1397901705_1_Color_008
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.117647058823529 0.117647058823529 0.117647058823529
+      diffuse 0.117647058823529 0.117647058823529 0.117647058823529
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397901705_2_CUZ31
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.384313725490196 0.380392156862745 0.333333333333333
+      diffuse 0.384313725490196 0.380392156862745 0.333333333333333
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 10.8031464815131, 10.8031464815131
+      texture_unit
+      {
+        texture 1397901705_1_CUZ31.jpg
+      }
+    }
+  }
+}
+material 1397901705_3_RAL9006
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.647058823529412 0.658823529411765 0.650980392156863
+      diffuse 0.647058823529412 0.658823529411765 0.650980392156863
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397901705_4_PDM_Aluminium
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.729411764705882 0.729411764705882 0.729411764705882
+      diffuse 0.729411764705882 0.729411764705882 0.729411764705882
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 1.18110236220472, 1.18110236220472
+      texture_unit
+      {
+        texture 1397901705_3_aluminium.png
+      }
+    }
+  }
+}
+material 1397901705_5_Congestion_YN079
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.623529411764706 0.113725490196078 0.16078431372549
+      diffuse 0.623529411764706 0.113725490196078 0.16078431372549
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 9.84251968503937, 9.84251968503937
+      texture_unit
+      {
+        texture 1397901705_2_Congestion_YN079.jpg
+      }
+    }
+  }
+}
+material 1397901705_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}

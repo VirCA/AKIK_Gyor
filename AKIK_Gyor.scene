@@ -1,0 +1,433 @@
+<scene formatVersion="1.0" upAxis="y">
+	<nodes>
+	
+	<node name="floor" >
+			<position x="0" y="50" z="0" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="floor" castShadows="true" meshFile="floor01.mesh"/>
+	</node>
+
+	<node name="ceiling" >
+			<position x="0" y="320" z="0" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="ceiling" castShadows="false" meshFile="ceiling.mesh"/>
+	</node>
+
+	<node name="wallfront" >
+			<position x="5" y="180" z="1240" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="wallfront" castShadows="false" meshFile="wallFront.mesh"/>
+	</node>
+
+	<node name="wallBack" >
+			<position x="5" y="180" z="-1350" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="wallBack" castShadows="false" meshFile="wallBack.mesh"/>
+	</node>
+
+	<node name="wallleft" >
+			<position x="-620" y="185" z="0" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="wallleft" castShadows="false" meshFile="wallLeft.mesh"/>
+	</node>
+
+	<node name="wallright" >
+			<position x="620" y="185" z="190" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="wallright" castShadows="false" meshFile="wallRight.mesh"/>
+	</node>
+
+	<node name="raktar" >
+			<position x="-360" y="195" z="-1178" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="raktar" castShadows="false" meshFile="raktar.mesh"/>
+	</node>
+
+	<node name="pult" >
+			<position x="360" y="113" z="965" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="pult" castShadows="false" meshFile="pult.mesh"/>
+	</node>
+
+	<node name="buffet" >
+			<position x="-370" y="190" z="1020" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="buffet" castShadows="false" meshFile="bufe.mesh"/>
+	</node>
+
+	<node name="office" >
+			<position x="370" y="190" z="-800" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="office" castShadows="false" meshFile="iroda.mesh"/>
+	</node>
+
+	<node name="fodemResz" >
+			<position x="0" y="300" z="0" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="fodemResz" castShadows="false" meshFile="fodemResz.mesh"/>
+	</node>
+
+	<node name="oszlopBal1" >
+			<position x="-590" y="190" z="-122" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopBal1" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopBal2" >
+			<position x="-590" y="190" z="600" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopBal2" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopKozep1" >
+			<position x="-230" y="190" z="-122" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopKozep1" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopKozep2" >
+			<position x="-230" y="190" z="600" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopKozep2" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopJobb1" >
+			<position x="590" y="190" z="-122" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopJobb1" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopJobb11" >
+			<position x="320" y="190" z="-122" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopJobb11" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopJobb2" >
+			<position x="590" y="190" z="600" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopJobb2" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="oszlopJobb21" >
+			<position x="320" y="190" z="600" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="oszlopJobb21" castShadows="false" meshFile="oszlop.mesh"/>
+	</node>
+
+	<node name="desk" >
+			<position x="560" y="85" z="225" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="nasztal1" castShadows="false" meshFile="asztal.mesh"/>
+	</node>
+
+	<node name="nasztal" >
+			<position x="240" y="90" z="60" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="nasztal" castShadows="false" meshFile="nasztal.mesh"/>
+	</node>
+
+	<node name="nasztal2" >
+			<position x="240" y="90" z="360" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="nasztal2" castShadows="false" meshFile="nasztal.mesh"/>
+	</node>
+
+	<node name="nasztal3" >
+			<position x="120" y="90" z="200" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="nasztal3" castShadows="false" meshFile="nasztal.mesh"/>
+	</node>
+
+	<node name="nasztal4" >
+			<position x="-290" y="90" z="-740" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="nasztal4" castShadows="false" meshFile="nasztal.mesh"/>
+	</node>
+
+	<node name="ulo1" >
+			<position x="-280" y="85" z="500" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="ulo1" castShadows="false" meshFile="ulo1.mesh"/>
+	</node>
+
+	<node name="ulo2" >
+			<position x="-340" y="95" z="190" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0" x="0" y="1" z="0" />
+			<entity name="ulo2" castShadows="false" meshFile="ulo2.mesh"/>
+	</node>
+
+	<node name="ulo3" >
+			<position x="-165" y="85" z="-140" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="ulo3" castShadows="false" meshFile="ulo3.mesh"/>
+	</node>
+
+	<node name="ulo4" >
+			<position x="-265" y="85" z="-470" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="ulo4" castShadows="false" meshFile="ulo4.mesh"/>
+	</node>
+
+	<node name="szek1" >
+			<position x="495" y="85" z="-30" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szek1" castShadows="false" physicsType="movable" meshFile="szek.mesh"/>
+	</node>
+
+	<node name="szgep1" >
+			<position x="560" y="137" z="-30" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szgep1" castShadows="false" physicsType="movable" meshFile="szgep.mesh"/>
+	</node>
+
+	<node name="szek2" >
+			<position x="505" y="85" z="70" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szek2" castShadows="false" physicsType="movable" meshFile="szek.mesh"/>
+	</node>
+
+	<node name="szgep2" >
+			<position x="560" y="137" z="70" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szgep2" castShadows="false" physicsType="movable" meshFile="szgep.mesh"/>
+	</node>
+
+	<node name="szek3" >
+			<position x="505" y="85" z="180" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szek3" castShadows="false" physicsType="movable" meshFile="szek.mesh"/>
+	</node>
+
+	<node name="szgep3" >
+			<position x="560" y="137" z="180" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szgep3" castShadows="false" physicsType="movable" meshFile="szgep.mesh"/>
+	</node>
+
+	<node name="szek4" >
+			<position x="505" y="85" z="280" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szek4" castShadows="false" physicsType="movable" meshFile="szek.mesh"/>
+	</node>
+
+	<node name="szgep4" >
+			<position x="560" y="137" z="280" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szgep4" castShadows="false" physicsType="movable" meshFile="szgep.mesh"/>
+	</node>
+
+	<node name="szek5" >
+			<position x="505" y="85" z="400" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szek5" castShadows="false" physicsType="movable" meshFile="szek.mesh"/>
+	</node>
+
+	<node name="szgep5" >
+			<position x="560" y="137" z="400" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szgep5" castShadows="false" physicsType="movable" meshFile="szgep.mesh"/>
+	</node>
+
+	<node name="szek6" >
+			<position x="505" y="85" z="500" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szek6" castShadows="false" physicsType="movable" meshFile="szek.mesh"/>
+	</node>
+
+	<node name="szgep6" >
+			<position x="560" y="137" z="500" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="0.7071" x="0" y="-0.7071" z="0" />
+			<entity name="szgep6" castShadows="false" physicsType="movable" meshFile="szgep.mesh"/>
+	</node>
+
+	<node name="polc1" >
+			<position x="570" y="145" z="-210" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="polc2" castShadows="false" meshFile="uPolc.mesh"/>
+	</node>
+
+	<node name="polc2" >
+			<position x="470" y="145" z="-210" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="polc3" castShadows="false" meshFile="uPolc.mesh"/>
+	</node>
+
+	<node name="polc3" >
+			<position x="370" y="145" z="-210" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="polc4" castShadows="false" meshFile="uPolc.mesh"/>
+	</node>
+
+	<node name="polc4" >
+			<position x="270" y="145" z="-210" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="polc5" castShadows="false" meshFile="uPolc.mesh"/>
+	</node>
+
+	<node name="tv1" >
+			<position x="-500" y="275" z="-1048" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="tv1" castShadows="false" meshFile="LGtv.mesh"/>
+	</node>
+
+	<node name="tv2" >
+			<position x="-220" y="275" z="-1048" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="tv2" castShadows="false" meshFile="LGtv.mesh"/>
+	</node>
+
+	<node name="barszek1" >
+			<position x="-220" y="98" z="865" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="barszek1" castShadows="false" meshFile="barszek.mesh"/>
+	</node>
+
+	<node name="barszek2" >
+			<position x="-285" y="98" z="865" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="barszek2" castShadows="false" meshFile="barszek.mesh"/>
+	</node>
+
+	<node name="barszek3" >
+			<position x="-350" y="98" z="865" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="barszek3" castShadows="false" meshFile="barszek.mesh"/>
+	</node>
+
+	<node name="elsoJobb" >
+			<position x="200" y="295" z="560" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="elsoJobb" castShadows="false" meshFile="lamp.mesh"/>
+	</node>
+	<node name="LightSource1" >
+		<light name="LightSource1" parentNodeName="elsoJobb" visible="true" type="spot" power="1">
+			<position x="200" y="605" z="560" />
+			<direction x="0" y="-1" z="0" />
+			<colourDiffuse r="0.8" g="0.8" b="0.8" />
+			<colourSpecular r="0.5" g="0.5" b="0.5" />
+			<lightRange inner="30" outer="90" falloff="2"/>
+			<lightAttenuation mode="manual" range="2000" constant="1.5" linear="0" quadratic="0" />
+		</light>
+	</node>
+
+	<node name="elsoBal" >
+			<position x="-200" y="295" z="560" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="elsoBal" castShadows="false" meshFile="lamp.mesh"/>
+	</node>
+	<node name="LightSource2" >
+		<light name="LightSource2" parentNodeName="elsoBal" visible="true" type="spot" power="1">
+			<position x="-200" y="605" z="560" />
+			<direction x="0" y="-1" z="0" />
+			<colourDiffuse r="0.8" g="0.8" b="0.8" />
+			<colourSpecular r="0.5" g="0.5" b="0.5" />
+			<lightRange inner="30" outer="90" falloff="2"/>
+			<lightAttenuation mode="manual" range="2000" constant="1.5" linear="0" quadratic="0" />
+		</light>
+	</node>
+
+	<node name="kozepsoBal" >
+			<position x="-200" y="295" z="100" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="kozepsoBal" castShadows="false" meshFile="lamp.mesh"/>
+	</node>
+	<node name="LightSource3" >
+		<light name="LightSource3" parentNodeName="kozepsoBal" visible="true" type="spot" power="1">
+			<position x="-200" y="505" z="100" />
+			<direction x="0" y="-1" z="0" />
+			<colourDiffuse r="0.8" g="0.8" b="0.8" />
+			<colourSpecular r="0.5" g="0.5" b="0.5" />
+			<lightRange inner="30" outer="90" falloff="2"/>
+			<lightAttenuation mode="manual" range="2000" constant="1.5" linear="0" quadratic="0" />
+		</light>
+	</node>
+
+	<node name="kozepsoJobb" >
+			<position x="200" y="295" z="100" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="kozepsoJobb" castShadows="false" meshFile="lamp.mesh"/>
+	</node>
+	<node name="LightSource4" >
+		<light name="LightSource4" parentNodeName="kozepsoJobb" visible="true" type="spot" power="1">
+			<position x="200" y="505" z="100" />
+			<direction x="0" y="-1" z="0" />
+			<colourDiffuse r="0.8" g="0.8" b="0.8" />
+			<colourSpecular r="0.5" g="0.5" b="0.5" />
+			<lightRange inner="30" outer="90" falloff="2"/>
+			<lightAttenuation mode="manual" range="2000" constant="1.5" linear="0" quadratic="0" />
+		</light>
+	</node>
+
+	<node name="hatsoJobb" >
+			<position x="-250" y="265" z="-400" />
+			<scale x="1" y="1" z="1" />
+			<rotation w="1" x="0" y="0" z="0" />
+			<entity name="hatsoJobb" castShadows="false" meshFile="lamp.mesh"/>
+	</node>
+	<node name="LightSource5" >
+		<light name="LightSource5" parentNodeName="hatsoJobb" visible="true" type="spot" power="1">
+			<position x="-250" y="705" z="-400" />
+			<direction x="0" y="-1" z="0" />
+			<colourDiffuse r="0.8" g="0.8" b="0.8" />
+			<colourSpecular r="0.5" g="0.5" b="0.5" />
+			<lightRange inner="30" outer="90" falloff="2"/>
+			<lightAttenuation mode="manual" range="2000" constant="1.5" linear="0" quadratic="0" />
+		</light>
+	</node>
+
+	</nodes>
+</scene>

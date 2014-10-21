@@ -1,0 +1,315 @@
+material 1397907023_1_Material12
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.752941176470588 0.752941176470588 0.752941176470588
+      diffuse 0.752941176470588 0.752941176470588 0.752941176470588
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_2_<White>
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_3_0064_Chartreuse
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.498039215686275 1.0 0.0
+      diffuse 0.498039215686275 1.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_4_[Color_008]2
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      ambient 0.117647058823529 0.117647058823529 0.117647058823529 0.25
+      diffuse 0.117647058823529 0.117647058823529 0.117647058823529 0.25
+      specular 0.0 0.0 0.0 0.25 0.0
+      emissive 0.0 0.0 0.0 1.0
+    }
+  }
+}
+material 1397907023_5_Color_000
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_6_Color_A06
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.8 0.0 0.0
+      diffuse 0.8 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_7_Alu
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      ambient 0.23921568627451 0.23921568627451 0.23921568627451 0.96
+      diffuse 0.23921568627451 0.23921568627451 0.23921568627451 0.96
+      specular 0.0 0.0 0.0 0.96 0.0
+      emissive 0.0 0.0 0.0 1.0
+      // texture size: 31.496062992126, 35.4330708661417
+      texture_unit
+      {
+        texture 1397907023_1_Aluminum.jpg
+      }
+    }
+  }
+}
+material 1397907023_8_Color_008
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.117647058823529 0.117647058823529 0.117647058823529
+      diffuse 0.117647058823529 0.117647058823529 0.117647058823529
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_9_<LightSteelBlue>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.690196078431373 0.768627450980392 0.870588235294118
+      diffuse 0.690196078431373 0.768627450980392 0.870588235294118
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_10_Keyboard_Old
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 0.996078431372549 0.968627450980392
+      diffuse 1.0 0.996078431372549 0.968627450980392
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_11_Color_006
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.337254901960784 0.337254901960784 0.337254901960784
+      diffuse 0.337254901960784 0.337254901960784 0.337254901960784
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_12_Color_007
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.227450980392157 0.227450980392157 0.227450980392157
+      diffuse 0.227450980392157 0.227450980392157 0.227450980392157
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_13_Material1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.137254901960784 0.137254901960784 0.137254901960784
+      diffuse 0.137254901960784 0.137254901960784 0.137254901960784
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_14_<Silver>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.752941176470588 0.752941176470588 0.752941176470588
+      diffuse 0.752941176470588 0.752941176470588 0.752941176470588
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_15_<GhostWhite>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.972549019607843 0.972549019607843 1.0
+      diffuse 0.972549019607843 0.972549019607843 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_16_Color_009
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.0 0.0 0.0
+      diffuse 0.0 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_17_<Red>
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 0.0 0.0
+      diffuse 1.0 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_18_Color_006
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.337254901960784 0.337254901960784 0.337254901960784
+      diffuse 0.337254901960784 0.337254901960784 0.337254901960784
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_19_[Color_009]1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.0784313725490196 0.0784313725490196 0.0784313725490196
+      diffuse 0.0784313725490196 0.0784313725490196 0.0784313725490196
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_20_[Fencing_Diamond_Mesh]2
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.349019607843137 0.345098039215686 0.337254901960784
+      diffuse 0.349019607843137 0.345098039215686 0.337254901960784
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 0.393700787401575, 0.275590551181102
+      texture_unit
+      {
+        texture 1397907023_2_Fencing_Diamond_Mesh.png
+      }
+    }
+  }
+}
+material 1397907023_21_[Color_008]1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.176470588235294 0.176470588235294 0.176470588235294
+      diffuse 0.176470588235294 0.176470588235294 0.176470588235294
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_22_<LightSlateGray>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.466666666666667 0.533333333333333 0.6
+      diffuse 0.466666666666667 0.533333333333333 0.6
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397907023_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}

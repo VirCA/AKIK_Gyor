@@ -1,0 +1,232 @@
+material 1399357588_1_Material2
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.701960784313725 0.701960784313725 0.701960784313725
+      diffuse 0.701960784313725 0.701960784313725 0.701960784313725
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_2_Color_000
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      ambient 0.0 0.0 0.0 0.79
+      diffuse 0.8 0.8 0.8 0.79
+      specular 0.0 0.0 0.0 0.79 0.0
+      emissive 0.3 0.3 0.3 1.0
+    }
+  }
+}
+material 1399357588_3_Color_005
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.447058823529412 0.447058823529412 0.447058823529412
+      diffuse 0.447058823529412 0.447058823529412 0.447058823529412
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_4_Color_A01
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 0.0 0.0
+      diffuse 1.0 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_5_Color_004
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.556862745098039 0.556862745098039 0.556862745098039
+      diffuse 0.556862745098039 0.556862745098039 0.556862745098039
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_6_Color_003
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.666666666666667 0.666666666666667 0.666666666666667
+      diffuse 0.666666666666667 0.666666666666667 0.666666666666667
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_7_Color_D02
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 0.8 0.196078431372549
+      diffuse 1.0 0.8 0.196078431372549
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_8_Color_001
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.886274509803922 0.886274509803922 0.886274509803922
+      diffuse 0.886274509803922 0.886274509803922 0.886274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_9_Metal_Aluminum_Anodized
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.792156862745098 0.819607843137255 0.858823529411765
+      diffuse 0.792156862745098 0.819607843137255 0.858823529411765
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 54.0, 54.0
+      texture_unit
+      {
+        texture 1399357588_1_Metal_Aluminum_Anodized.jpg
+      }
+    }
+  }
+}
+material 1399357588_10_Material3
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.0980392156862745 0.0980392156862745 0.0980392156862745
+      diffuse 0.0980392156862745 0.0980392156862745 0.0980392156862745
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_11_[Color_009]3
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.0 0.0 0.0
+      diffuse 0.0 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_12_Color_F01
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      ambient 0.36078431372549 0.729411764705882 0.0 0.51
+      diffuse 0.36078431372549 0.729411764705882 0.0 0.51
+      specular 0.0 0.0 0.0 0.51 0.0
+      emissive 0.0 0.0 0.0 1.0
+    }
+  }
+}
+material 1399357588_13_black
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.0 0.0 0.0
+      diffuse 0.0 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_14_Color_C06
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.8 0.4 0.0
+      diffuse 0.8 0.4 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_15_Color_008
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.117647058823529 0.117647058823529 0.117647058823529
+      diffuse 0.117647058823529 0.117647058823529 0.117647058823529
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_16_Color_007
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.227450980392157 0.227450980392157 0.227450980392157
+      diffuse 0.227450980392157 0.227450980392157 0.227450980392157
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399357588_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}

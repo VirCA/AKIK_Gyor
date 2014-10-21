@@ -1,0 +1,104 @@
+material 1399034514_1_<Black>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.0 0.0 0.0
+      diffuse 0.0 0.0 0.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}
+material 1399034514_2_Color_000
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.5 0.5 0.5
+    }
+  }
+}
+material 1399034514_3_Color_002
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.776470588235294 0.776470588235294 0.776470588235294
+      diffuse 0.776470588235294 0.776470588235294 0.776470588235294
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}
+material 1399034514_4_<DimGray>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.411764705882353 0.411764705882353 0.411764705882353
+      diffuse 0.411764705882353 0.411764705882353 0.411764705882353
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}
+material 1399034514_5_<DarkGray>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.317647058823529 0.317647058823529 0.317647058823529
+      diffuse 0.317647058823529 0.317647058823529 0.317647058823529
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399034514_6_<Ivory>
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 0.941176470588235
+      diffuse 1.0 1.0 0.941176470588235
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399034514_7_<White>
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 1.0 1.0 1.0
+    }
+  }
+}
+material 1399034514_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.5 0.5 0.5
+    }
+  }
+}

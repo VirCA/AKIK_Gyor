@@ -1,0 +1,107 @@
+material 1395424379_1_Translucent_Glass_Blue
+{
+  technique
+  {
+    pass
+    {
+      scene_blend alpha_blend
+      depth_check on
+      depth_write off
+      ambient 0.392156862745098 0.584313725490196 0.929411764705882 0.5
+      diffuse 0.392156862745098 0.584313725490196 0.929411764705882 0.5
+      specular 0.0 0.0 0.0 0.5 0.0
+      emissive 0.0 0.0 0.0 1.0
+    }
+  }
+}
+material 1395424379_2_96,96,1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.286274509803922 0.286274509803922 0.286274509803922
+      diffuse 0.286274509803922 0.286274509803922 0.286274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1395424379_3_jean_blue
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.141176470588235 0.184313725490196 0.258823529411765
+      diffuse 0.141176470588235 0.184313725490196 0.258823529411765
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1395424379_4_Color_H08
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.317647058823529 0.8 0.8
+      diffuse 0.317647058823529 0.8 0.8
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1395424379_5_<LightGray>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.662745098039216 0.662745098039216 0.662745098039216
+      diffuse 0.662745098039216 0.662745098039216 0.662745098039216
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1395424379_6_Color_001
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.886274509803922 0.886274509803922 0.886274509803922
+      diffuse 0.886274509803922 0.886274509803922 0.886274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1395424379_7_Color_000
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1395424379_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}

@@ -1,0 +1,189 @@
+material 1399361276_1_Material3
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.725490196078431 0.545098039215686 0.325490196078431
+      diffuse 0.725490196078431 0.545098039215686 0.325490196078431
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 33.4645669291339, 16.4862204724409
+      texture_unit
+      {
+        texture 1399361276_2_20140311_123250.jpg
+      }
+    }
+  }
+}
+material 1399361276_2_[0135_DarkGray]1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.141176470588235 0.149019607843137 0.227450980392157
+      diffuse 0.141176470588235 0.149019607843137 0.227450980392157
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399361276_3_Color_D04
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.827450980392157 0.619607843137255 0.372549019607843
+      diffuse 0.827450980392157 0.619607843137255 0.372549019607843
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399361276_4_cromado_01
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.666666666666667 0.670588235294118 0.686274509803922
+      diffuse 0.666666666666667 0.670588235294118 0.686274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 0.629921259842519, 0.31496062992126
+      texture_unit
+      {
+        texture 1399361276_1_cromado_01.jpg
+      }
+    }
+  }
+}
+material 1399361276_5_Color_001
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.886274509803922 0.886274509803922 0.886274509803922
+      diffuse 0.886274509803922 0.886274509803922 0.886274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399361276_6_<LightGray>
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.662745098039216 0.662745098039216 0.662745098039216
+      diffuse 0.662745098039216 0.662745098039216 0.662745098039216
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399361276_7_goma
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.117647058823529 0.117647058823529 0.117647058823529
+      diffuse 0.117647058823529 0.117647058823529 0.117647058823529
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399361276_8_cromado_02
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.764705882352941 0.772549019607843 0.796078431372549
+      diffuse 0.764705882352941 0.772549019607843 0.796078431372549
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 5.85737308946391, 4.39302981709793
+      texture_unit
+      {
+        texture 1399361276_3_cromado_02.jpg
+      }
+    }
+  }
+}
+material 1399361276_9_tornillo-estrella
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.549019607843137 0.549019607843137 0.549019607843137
+      diffuse 0.549019607843137 0.549019607843137 0.549019607843137
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 0.275590551181104, 0.275590551181104
+      texture_unit
+      {
+        texture 1399361276_4_tornillo-estrella.jpg
+      }
+    }
+  }
+}
+material 1399361276_10_Color_000
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}
+material 1399361276_11_96,96,1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.286274509803922 0.286274509803922 0.286274509803922
+      diffuse 0.286274509803922 0.286274509803922 0.286274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1399361276_12_Material2
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.8 0.8 0.8
+      diffuse 0.8 0.8 0.8
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}
+material 1399361276_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}

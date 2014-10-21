@@ -1,0 +1,70 @@
+material 1397824783_1_Material3
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.725490196078431 0.545098039215686 0.325490196078431
+      diffuse 0.725490196078431 0.545098039215686 0.325490196078431
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 33.4645669291339, 16.4862204724409
+      texture_unit
+      {
+        texture 1397824783_1_20140311_123250.jpg
+      }
+    }
+  }
+}
+material 1397824783_2_Color_000
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}
+material 1397824783_3_96,96,1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.286274509803922 0.286274509803922 0.286274509803922
+      diffuse 0.286274509803922 0.286274509803922 0.286274509803922
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397824783_4_Color_D04
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.827450980392157 0.619607843137255 0.372549019607843
+      diffuse 0.827450980392157 0.619607843137255 0.372549019607843
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 1397824783_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}

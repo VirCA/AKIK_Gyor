@@ -1,0 +1,31 @@
+material 1396345689_1_Material2
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.8 0.219607843137255 0.16078431372549
+      diffuse 0.8 0.219607843137255 0.16078431372549
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 196.850393700787, 147.637795275591
+      texture_unit
+      {
+        texture 1396345689_1_LP018_swatch_medium_Armstrong.jpg
+      }
+    }
+  }
+}
+material 1396345689_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.3 0.3 0.3
+    }
+  }
+}

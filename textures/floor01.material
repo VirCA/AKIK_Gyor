@@ -1,0 +1,49 @@
+material 1399360218_1_Stone_Brushed_Khaki
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.886274509803922 0.772549019607843 0.52156862745098
+      diffuse 0.886274509803922 0.772549019607843 0.52156862745098
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 24.0, 24.0
+      texture_unit
+      {
+        texture 1399360218_2_Stone_Brushed_Khaki.jpg
+      }
+    }
+  }
+}
+material 1399360218_2_Material2
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.8 0.219607843137255 0.16078431372549
+      diffuse 0.8 0.219607843137255 0.16078431372549
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+      // texture size: 288.713910761155, 216.535433070866
+      texture_unit
+      {
+        texture 1399360218_1_LP018_swatch_medium_Armstrong.jpg
+      }
+    }
+  }
+}
+material 1399360218_SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0
+      specular 0.0 0.0 0.0 0.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
